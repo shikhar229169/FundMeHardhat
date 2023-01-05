@@ -1,0 +1,18 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+# vscode
+.vscode
+
+# Hardhat files
+cache
+artifacts
+pending(test)
+egas-Reports.txt
+gas-Reports.txt
+deployments
+helper-hardhat2.js
